@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vamp666
+- 👀 I’m interested in Data Science, Blockchain and Cryptocurrencies, Audio Engineering
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on Kaggle Contest
+- 📫 You can reach me in Telegram: @Ayrton_Senna2
